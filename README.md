@@ -7,7 +7,7 @@ Bienvenido a mi perfil de GitHub. Me apasionan la **tecnología, la educación**
 ## ✨ Sobre mí
 
 - 🎓 Doctor Ingeniero de Telecomunicación
-- 💼 Coordinador del ciclo SMR en el IES Ignacio Ellacuría (Madrid)
+- 💼 Profesor del ciclo SMR y DAW en el IES Ignacio Ellacuría (Madrid)
 - 👨‍🏫 Profesor de Tecnología y amante de la enseñanza
 - 🧠 Apasionado por la inteligencia artificial, la robótica educativa y Arduino
 - 📝 También creo contenido educativo y participo en proyectos de innovación docente
